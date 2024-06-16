@@ -1,0 +1,5 @@
+,image_filename,original,translation,answer
+0,CLEVR_train_000000.jpg,Are there any other objects that are the same shape as the big metallic object?,"Есть ли еще какие-нибудь предметы такой же формы, как большой металлический предмет?",нет
+1,CLEVR_train_000001.jpg,Is there a big brown object of the same shape as the green object?,"Есть ли большой коричневый предмет такой же формы, как зеленый предмет?",да
+2,CLEVR_train_000002.jpg,What is the material of the big purple object?,Из какого материала сделан большой фиолетовый предмет?,металл
+3,CLEVR_train_000000.jpg,There is a small gray block; are there any spheres to the left of it?,Есть небольшой серый блок; есть ли сферы слева от него?,да
