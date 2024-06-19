@@ -2,7 +2,7 @@
 
 This is the code used to generate RuCLEVR dataset.
 
-For initial question and image generation we used the [code of the original CLEVR dataset](https://github.com/facebookresearch/clevr-dataset-gen). The original training and validating datasets that were adapted to Russian language could also be found in this [repository](https://github.com/facebookresearch/clevr-dataset-gen)
+For initial question and image generation we used the [code of the original CLEVR dataset](https://github.com/facebookresearch/clevr-dataset-gen). The original training and validating datasets that were adapted to Russian language could also be found in this [repository](https://github.com/facebookresearch/clevr-dataset-gen).
 
 The main focus of our work were data creation and experiments.
 First the datasets were generated in English, then they were translated and augmentated using the following script:
